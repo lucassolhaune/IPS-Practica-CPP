@@ -1,0 +1,13 @@
+- La idea es que una subasta consiste en un conjunto de items ofertados para la venta. Estos items son llamados lotes.
+
+- Las Personas ingresan ofertas para los lotes y la mas elevada es la que se registra en el Lote. Ni la Persona ni la Oferta inicia la actividad en la subasta.
+
+- La persona solo posee un nombre.
+
+- La oferta guarda el monto y el ofertante.
+
+- El lote, tiene un numero y un nombre, ademas se guarda la oferta mas grande.
+
+- La subasta guarda la coleccion de lotes y la cantidad de los mismos.
+
+Debe realizar y entregar el diagrama de clases del sistema y la codificación del mismo.

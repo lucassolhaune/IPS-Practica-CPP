@@ -1,0 +1,4 @@
+1 - 0 - Lucas - 23
+2 - 4 - Alfonso - 22
+3 - 9 - Pepe - 25
+4 - 3 - Veronica - 29
